@@ -3,7 +3,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Cunha%20Reis-9984d5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cunha-reis-314994154/)](https://www.linkedin.com/in/matheus-cunha-reis-314994154/)    [![Gmail Badge](https://img.shields.io/badge/-matheuscunhareis30@gmail.com-9984d5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuscunhareis30@gmail.com)](mailto:matheuscunhareis30@gmail.com)
 
-&nbs
 - 🔭 Graduated in Computer Science
 - 🌱 Currently acting as Full Stack Engineer
 
