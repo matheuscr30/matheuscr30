@@ -5,16 +5,16 @@
   <a href="https://github.com/matheuscr30"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmatheuscr30&longCache=true"/></a>
 </div>
 
-<h2 align="center">:book: &nbsp;About Me</h2>
+<h2 align="left">:book: &nbsp;About Me</h2>
 
-<div align="center">
+<div align="left">
   <ul>
     <li>Graduated in Computer Science</li>
     <li>Currently acting as Full Stack Engineer</li>
   </ul>
 </div>
 
-<h2 align="center">🛠 &nbsp;Tech Stack</h2>
+<h2 align="left">🛠 &nbsp;Tech Stack</h2>
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,7 +40,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
-<h2 align="center">:bar_chart: &nbsp;Some Stats</h2>
+<h2 align="left">:bar_chart: &nbsp;Some Stats</h2>
 
 <p align="center">
   <a href="https://github.com/AVS1508">
@@ -56,7 +56,7 @@
   </details>
 </div>
 
-<h2 align="center">🔥 My contribution streak</h2>
+<h2 align="left">🔥 My contribution streak</h2>
 
 <p align="center">
   <a href="https://github.com/matheuscr30/github-readme-streak-stats">
@@ -64,7 +64,7 @@
   </a>
 </p>
 
-<h2 align="center">:raising_hand_man: &nbsp;Connect with me</h2>
+<h2 align="left">:raising_hand_man: &nbsp;Connect with me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-cunha-reis-314994154" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
