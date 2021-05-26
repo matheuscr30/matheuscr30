@@ -44,7 +44,7 @@
 <h2 align="left">:bar_chart: &nbsp;Some Stats</h2>
 
 <p align="center">
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/matheuscr30">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheuscr30&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheuscr30&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
   </a>
@@ -53,7 +53,7 @@
 <div align="center">
   <details> 
     <summary>My contribution activity</summary><br/>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=matheuscr30&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/matheuscr30/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=matheuscr30&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </details>
 </div>
 
