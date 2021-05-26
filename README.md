@@ -53,14 +53,14 @@
 <div align="center">
   <details> 
     <summary>My contribution activity</summary><br/>
-    <a href="https://github.com/matheuscr30/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=matheuscr30&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://activity-graph.herokuapp.com/graph?username=matheuscr30&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=matheuscr30&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   </details>
 </div>
 
 <h2 align="left">🔥 My contribution streak</h2>
 
 <p align="center">
-  <a href="https://github.com/matheuscr30/github-readme-streak-stats">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=matheuscr30&theme=monokai-metallian&hide_border=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuscr30&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
